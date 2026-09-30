@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.class
+.pytest_cache/
+.pytest_cache/
+
+# Environments / Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+secrets.toml
+.streamlit/secrets.toml
+*.pem
+*.key
+credentials.json
+
+# Model Weights, Embeddings & Large Binary Files (Face & Voice AI)
+*.dat
+*.pkl
+*.npy
+*.npz
+*.h5
+*.onnx
+*.pt
+*.pth
+*.tflite
+*.bin
+
+# Temporary media & captured dataset files
+*.wav
+*.mp3
+*.m4a
+*.png
+*.jpg
+*.jpeg
+temp/
+captures/
+dataset/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
