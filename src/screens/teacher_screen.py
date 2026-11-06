@@ -1,6 +1,6 @@
 import streamlit as st
 
-from src.ui.base_layout import style_background_dashboard, style_base_layout
+from src.ui.base_layout import style_base_layout
 
 from src.components.header import header_dashboard
 from src.components.footer import footer_dashboard
@@ -24,7 +24,6 @@ from src.database.config import supabase
 from src.components.dialog_voice_attendance import voice_attendance_dialog
 def teacher_screen():
 
-    style_background_dashboard()
     style_base_layout()
 
     if "teacher_data" in st.session_state:

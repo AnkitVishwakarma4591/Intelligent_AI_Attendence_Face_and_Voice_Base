@@ -12,6 +12,20 @@ SnapClass is a Streamlit attendance app for teachers and students. Teachers can 
 - Attendance review before saving records to Supabase.
 - Student attendance summaries and teacher attendance reports.
 
+## Screenshots
+
+### Home page
+
+![SnapClass home page](src/images/Home%20page.png)
+
+### Student login
+
+![SnapClass student login](src/images/student%20login.png)
+
+### Teacher login
+
+![SnapClass teacher login](src/images/teacher%20login.png)
+
 ## Technology
 
 - Python 3.12
