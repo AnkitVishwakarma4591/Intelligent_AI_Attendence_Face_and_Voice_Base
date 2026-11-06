@@ -1,5 +1,7 @@
 # SnapClass — AI Attendance
 
+**Live app:** [snapclass-attendance-ankit.streamlit.app](https://snapclass-attendance-ankit.streamlit.app/)
+
 SnapClass is a Streamlit attendance app for teachers and students. Teachers can manage classes, collect classroom photos or audio, review AI-generated attendance, and save attendance records. Students create a profile using a face photo, enroll in subjects, and view their attendance history.
 
 ## Features
